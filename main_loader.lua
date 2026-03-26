@@ -1,7 +1,7 @@
 -- cx.farm | main_loader.lua
 
 -- Define the raw GitHub content URL base for your repository
-local repo_url = "https://raw.githubusercontent.com/YourUsername/YourRepo/main/"
+local repo_url = "https://github.com/CoLuMOR-DEV/beegardensc/edit/main/"
 
 -- Helper function to fetch and load scripts securely
 local function loadModule(path)
