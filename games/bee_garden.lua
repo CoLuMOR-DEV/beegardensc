@@ -1,6 +1,5 @@
 -- Fetch the X2ZU Library (Replace the URL if you have a specific custom fork hosted elsewhere)
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/X2ZU%20Library.lua"))()
-
+local Library = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 -- Define the base raw URL for your GitHub repository
 local baseUrl = "https://raw.githubusercontent.com/CoLuMOR-DEV/beegardensc/main/modules/"
 
